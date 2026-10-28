@@ -1,0 +1,14 @@
+name=[B42] Vanilla MP Animal Care Fix
+id=VanillaB42MPAnimalCareFix
+author=Antikristianos
+description=Repairs multiplayer Animal Care actions and prevents client session aborts when unloading a hutch with empty animal slots in Build 42.21.
+icon=../common/icon.png
+modversion=1.1
+versionMin=42.21.0
+require=\ZombieBuddy
+javaJarFile=media/java/VanillaB42MPAnimalCareFix.jar
+javaPkgName=antikristianos.vanillab42mpanimalcarefix
+ZBVersionMin=2.3.2
+category=Multiplayer
+incompatible=VanillaB42MPAnimalCareFix_WIP
+poster=../common/poster.png
