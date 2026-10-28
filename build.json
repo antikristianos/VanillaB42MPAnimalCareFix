@@ -1,0 +1,34 @@
+{
+  "JavaRelease": 17,
+  "JarName": "VanillaB42MPAnimalCareFix.jar",
+  "AdditionalClasspath": [],
+  "Entries": [
+    {
+      "Path": "antikristianos/vanillab42mpanimalcarefix/HutchUnloadGuard.class",
+      "Size": 2320,
+      "Sha256": "546E927333F5DEE43791658403841BB14793E0CE5935B22168EB037423371FE8"
+    },
+    {
+      "Path": "antikristianos/vanillab42mpanimalcarefix/Main.class",
+      "Size": 1146,
+      "Sha256": "27B1B41782D1BFBA59A2F2E0E1445B828DFB8BF72FA9C91549D79FE5FC59FCEA"
+    },
+    {
+      "Path": "antikristianos/vanillab42mpanimalcarefix/PatchHutchUnload.class",
+      "Size": 938,
+      "Sha256": "932111E7463A9D48C0358B1887401C690D48699D00A1BE4E538792DA21482B1D"
+    }
+  ],
+  "Dependencies": [
+    {
+      "Path": "projectzomboid.jar",
+      "Size": 66254409,
+      "Sha256": "90C54B84EBC160AE053CBEFE30C7713826CA4FDB4934FDE53C9EBDE0FF9892F3"
+    },
+    {
+      "Path": "ZombieBuddy.jar",
+      "Size": 12491692,
+      "Sha256": "79120880FDA051718082BD9BF0C2C2B639450AE73641FDB4631750221A57B208"
+    }
+  ]
+}

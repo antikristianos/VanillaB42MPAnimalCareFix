@@ -1,0 +1,84 @@
+{
+  "SchemaVersion": 1,
+  "Project": "VanillaB42MPAnimalCareFix",
+  "Repository": "antikristianos/VanillaB42MPAnimalCareFix",
+  "Branch": "wip",
+  "Tag": "wip-1.63",
+  "ModVersion": "1.1",
+  "CollectionVersion": "1.63",
+  "WorkshopId": 3802764936,
+  "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802764936",
+  "UploadManifestSha256": "2DF2A9D193786BC163CE4EA9E9B6232EE0819F421B726E8CA65CB59859AB0AD7",
+  "Artifact": {
+    "Path": "mods/VanillaB42MPAnimalCareFix_WIP/42.21/media/java/VanillaB42MPAnimalCareFix.jar",
+    "Size": 3575,
+    "Sha256": "418D0D80A312F8EE0DDD987F3B05DBAAAC1A17C548CFBABA8DCABA1F8AFDD603"
+  },
+  "Sources": [
+    {
+      "Path": ".gitignore",
+      "Size": 8,
+      "Sha256": "020C2606E8ED484089C2083E0BE438B9D0736BEE1558A6B76AF0D58BD23F69CF"
+    },
+    {
+      "Path": "MANIFEST.MF",
+      "Size": 140,
+      "Sha256": "B0991630AAAC0001D441B10B20116AD40D6B675DC33C8A5E2ECBB02515D492B3"
+    },
+    {
+      "Path": "README.md",
+      "Size": 1292,
+      "Sha256": "D07E484204AFE41B1DE99DB91634303E1E1E2DAC60D1C32151B96C74CCD46AB1"
+    },
+    {
+      "Path": "build.json",
+      "Size": 1062,
+      "Sha256": "F5EE28CA4EABBB284D0A7C1997948CEE755613EE041DAB0F5C8B2BE38B3A400C"
+    },
+    {
+      "Path": "build.ps1",
+      "Size": 2600,
+      "Sha256": "8389B7B0B5515387FA5D9B3989FED7C8629DA7762817C03AD266B69DE5B2B0FD"
+    },
+    {
+      "Path": "runtime/42.21/media/lua/client/AnimalCareBloodStop.lua",
+      "Size": 447,
+      "Sha256": "15A0FB4899C69C7ABAE39F56A7C37A8D435B4F1B3555A6548EE06C33278D6BD1"
+    },
+    {
+      "Path": "runtime/42.21/media/lua/server/AnimalCareLuring.lua",
+      "Size": 4566,
+      "Sha256": "A2AAA4B021DA0A0169B142F58F332646EE8D3DA1412ACB9F04D0E1E9A3A50CA6"
+    },
+    {
+      "Path": "runtime/42.21/media/lua/server/AnimalCareWater.lua",
+      "Size": 2381,
+      "Sha256": "294EFCD30AF7AD3261697D3C35CE7516FE6839D5085EDC695BF888295C905C56"
+    },
+    {
+      "Path": "runtime/42.21/media/lua/server/HutchEggCollectionMPFix.lua",
+      "Size": 5477,
+      "Sha256": "F11F1387F48A08C016AAC87C7EB2B0A3CB98103C91AC6FC37F4AC0D01D663ECF"
+    },
+    {
+      "Path": "runtime/42.21/mod.info",
+      "Size": 513,
+      "Sha256": "85FDF6DF8A95B40B30585079CFBC282FE00003B49E187B51003CA9FEAEE48AB2"
+    },
+    {
+      "Path": "src/antikristianos/vanillab42mpanimalcarefix/HutchUnloadGuard.java",
+      "Size": 1430,
+      "Sha256": "A455606B7573AA01C0565A66EFF268B4A7204F18782CE75319837C564E6C7C09"
+    },
+    {
+      "Path": "src/antikristianos/vanillab42mpanimalcarefix/Main.java",
+      "Size": 368,
+      "Sha256": "96E0F4FF59F2DADC3BAFD98F966EC86DA7847629F2094A0B0B175FEEBE127B60"
+    },
+    {
+      "Path": "src/antikristianos/vanillab42mpanimalcarefix/PatchHutchUnload.java",
+      "Size": 540,
+      "Sha256": "DA313DB34CE51AFF5397953E7F1FADD80F44738553176CFEFFAE92C6203C920D"
+    }
+  ]
+}
