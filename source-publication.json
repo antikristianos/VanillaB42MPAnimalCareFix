@@ -3,12 +3,12 @@
   "Project": "VanillaB42MPAnimalCareFix",
   "Repository": "antikristianos/VanillaB42MPAnimalCareFix",
   "Branch": "wip",
-  "Tag": "wip-1.63",
+  "Tag": "wip-1.64",
   "ModVersion": "1.1",
-  "CollectionVersion": "1.63",
+  "CollectionVersion": "1.64",
   "WorkshopId": 3802764936,
   "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802764936",
-  "UploadManifestSha256": "2DF2A9D193786BC163CE4EA9E9B6232EE0819F421B726E8CA65CB59859AB0AD7",
+  "UploadManifestSha256": "E62B8E2B4F740DC36F534BFD4140B7ED7918454ED930F7A73CB028DD35FC94F5",
   "Artifact": {
     "Path": "mods/VanillaB42MPAnimalCareFix_WIP/42.21/media/java/VanillaB42MPAnimalCareFix.jar",
     "Size": 3575,
@@ -33,7 +33,7 @@
     {
       "Path": "build.json",
       "Size": 1062,
-      "Sha256": "F5EE28CA4EABBB284D0A7C1997948CEE755613EE041DAB0F5C8B2BE38B3A400C"
+      "Sha256": "E7D738E40AF01F36743C31C9E6C3680CE3D54EC88BC08D3C2E27DA1C9085B425"
     },
     {
       "Path": "build.ps1",
